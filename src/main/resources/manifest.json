@@ -1,0 +1,6 @@
+{
+  "Group": "org.redcars",
+  "Name": "commandsPlugin",
+  "Version": "1.0.1",
+  "Main": "org.redcars.plugin.commandsPlugin"
+}
